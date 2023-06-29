@@ -1,4 +1,4 @@
-nclude "sort.h"
+#include "sort.h"
 
 /**
  *bubble_sort - sorts an array of ints in ascending orde
